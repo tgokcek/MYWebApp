@@ -1,0 +1,1 @@
+# React ve Redux Uygulaması - my-app
